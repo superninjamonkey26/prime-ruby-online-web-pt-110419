@@ -1,4 +1,4 @@
-def prime?(integer)
-  integer.prime? do integer.to_a
+def prime?(n)
+  n.prime? do n.to_a
   end
 end
