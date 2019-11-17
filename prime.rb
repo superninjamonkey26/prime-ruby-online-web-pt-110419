@@ -4,7 +4,7 @@ def prime?(n)
     return false
   elsif n <= 3
     return true
-  else (1..10).to_a { i 
+  else (1..10).to_a { |i| 
     #{|i| i.to_a(string)}
   end
 end
