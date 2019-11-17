@@ -5,5 +5,4 @@ def prime?(n)
     return true
   else {|i| i.to_a(string)}
   end
-  #return
 end
