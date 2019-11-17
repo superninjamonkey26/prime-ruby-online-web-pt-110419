@@ -1,6 +1,6 @@
 def prime(integer)
   array = []
-  if array.prime? do |i|
+  if integer.prime? do |i|
     true
   else
     false
