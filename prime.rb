@@ -1,8 +1,5 @@
 def prime(integer)
   integer = []
-  if integer.prime? do integer.to_a
-    true
-  else
-    false
+  integer.prime? do integer.to_a
   end
 end
