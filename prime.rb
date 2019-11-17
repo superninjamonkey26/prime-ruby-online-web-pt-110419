@@ -1,6 +1,9 @@
 def prime?(n)
   if n <= 1
-  n.prime?{|i| i.to_a(string)}
+    return false
+  else
+    return true
+  #n.prime?{|i| i.to_a(string)}
   end
-  return
+  #return
 end
