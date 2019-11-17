@@ -3,7 +3,7 @@ def prime?(n)
     return false
   elsif n <= 3
     return true
-  #n.prime?{|i| i.to_a(string)}
+  else {|i| i.to_a(string)}
   end
   #return
 end
