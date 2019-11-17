@@ -1,6 +1,6 @@
 def prime(integer)
   integer = []
-  if integer.prime? do collection.to_a
+  if integer.prime? do integer.to_a
     true
   else
     false
